@@ -2,7 +2,7 @@
 # <p align="center"><b>👋 Hello, I'm Sobhan Sahaf</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=1F4E79&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub;Automation+and+Control+Engineer;Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5500&color=1F4E79&center=true&vCenter=true&width=750&font=Fira+Code&lines=Welcome+to+my+GitHub;I'm+Automation+and+Control+Engineer;Software+Engineer;English+Teacher" />
 </p>
 
 ---
