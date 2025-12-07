@@ -98,7 +98,7 @@ I work across several engineering and development domains:
 
 ---
 
-# 📫 **Connect With Me**
+# 📫 **Contact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sobhan%20Sahaf-0A66C2?logo=linkedin\&logoColor=white)](https://linkedin.com/in/your-link)
 [![Email](https://img.shields.io/badge/Email-sobhanshf78%40gmail.com-FF3131?logo=gmail\&logoColor=white)](mailto:sobhanshf78@gmail.com)
