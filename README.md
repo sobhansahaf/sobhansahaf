@@ -14,7 +14,7 @@ I am an **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with
 
 # 🛠️ **Skills & Technologies**
 
-### 🧑‍💻 Programming Languages
+###🧑‍💻 Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
@@ -74,6 +74,14 @@ I am an **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with
 
 ---
 
+### 📊 Design & Office Tools
+
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
+
+
+
+---
 
 # 🚀 **Professional Focus**
 
