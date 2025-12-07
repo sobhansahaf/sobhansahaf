@@ -74,11 +74,11 @@ I am an **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with
 
 ---
 
-### 📊 Design & Office Tools
+### 📊 Design & Office & Web Tools
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
-
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
 
 ---
