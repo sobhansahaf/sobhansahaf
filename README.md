@@ -68,17 +68,18 @@ I am an **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with
 
 ---
 
-### 🌐 Networking
+### 🌐 Networking & Web Tools
 
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1D25?logo=comptia\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
 
 ---
 
-### 📊 Design & Office & Web Tools
+### 📊 Design & Office
 
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoftoffice&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+
 
 
 ---
