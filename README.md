@@ -17,20 +17,20 @@ I am a **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with 
 
 
    <img src="https://img.shields.io/badge/M.Sc.%20Control%20Engineering-1976D2?logo=academia&logoColor=white" />&nbsp; <b>Master of Science (M.Sc.) in Control Engineering</b><br>
-  Ferdowsi University of Mashhad | 2019 – 2022<br>
-  Focus: Control Systems, Automation, Advanced Modeling | Thesis: System Identification & Intelligent Control Algorithms
+  Ferdowsi University of Mashhad | 2023 – 2025<br>
+  Focus: Control Systems, Automation, Advanced Modeling 
 </p>
 
 
   <img src="https://img.shields.io/badge/B.Sc.%20Electrical%20Engineering-FF6F00?logo=academia&logoColor=white" />&nbsp;   <b>Bachelor of Science (B.Sc.) in Electrical Engineering – Control</b><br>
-  Ferdowsi University of Mashhad | 2014 – 2019<br>
-  Focus: Industrial Control, Electrical Circuits, Instrumentation | Senior Project: Control System Design / Automation
+  Ferdowsi University of Mashhad | 2018 – 2023<br>
+  Focus: Industrial Control, Electrical Circuits, Instrumentation | Senior Project: RFID lock system using Arduino
 </p>
 
 
    <img src="https://img.shields.io/badge/TTC-English%20Teaching-4CAF50?logo=education&logoColor=white" />  <b>TTC (Teacher Training Course) – English Teaching Certification</b><br>
   Certified English Language Instructor<br>
-  Training in Teaching Methodology, Classroom Management, Lesson Planning | Experienced in General & Technical English, IELTS Preparation
+  Training in Teaching Methodology, Classroom Management, Lesson Planning | Experienced in General & Technical English
 </p>
 
 ---
