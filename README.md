@@ -8,7 +8,7 @@
 ---
 
 # 🌐 **About Me**
-I am a **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with expertise in **control engineering** and  **software engineering**.
+I am a **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with expertise in **control engineering** and **DevOps** and **Software testing** and **Monitoring** and **Programming**.
 
 
 ---
@@ -31,6 +31,13 @@ I am a **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with 
    <img src="https://img.shields.io/badge/TTC-English%20Teaching-4CAF50?logo=education&logoColor=white" />  <b>TTC (Teacher Training Course) – English Teaching Certification</b><br>
   Certified English Language Instructor<br>
   Training in Teaching Methodology, Classroom Management, Lesson Planning | Experienced in General & Technical English
+</p>
+
+  <img src="https://img.shields.io/badge/Network%20Monitoring%20Course-009688?logo=linux&logoColor=white" />&nbsp;
+  <b>Network Monitoring</b><br>
+  Part College | 2023<br>
+  Focus: Network Monitoring Tools & Time-Series Databases<br>
+  Skills: Grafana , InfluxDB, Prometheus, Telegraf
 </p>
 
 ---
@@ -85,11 +92,12 @@ I am a **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with 
 
 ---
 
-### 📊 Monitoring
+### 📊 Network Monitoring
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana\&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb\&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus\&logoColor=white)
+![Telegraf](https://img.shields.io/badge/Telegraf-1997B5?logo=telegraf&logoColor=white)
 
 ---
 
@@ -118,7 +126,7 @@ I work across several engineering and development domains:
 * 🚀 **DevOps & CI/CD Pipeline Engineering**
 * 🐳 **Docker & Kubernetes Container Orchestration**
 * 🧪 **Software QA, Automation & Testing Infrastructure**
-* 📈 **Monitoring & Observability (Grafana, Prometheus, InfluxDB)**
+* 📈 **Monitoring & Observability (Grafana, Prometheus, InfluxDB, Telegraf)**
 * 🔧 **Software Development & Embedded Systems**
 
 
