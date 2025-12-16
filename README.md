@@ -8,7 +8,7 @@
 ---
 
 # 🌐 **About Me**
-I am a **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with expertise in **control engineering** and **DevOps** and **Software testing** and **Monitoring** and **Programming**.
+I am a **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with expertise in **control engineering** , **DevOps** , **Software testing** , **Monitoring** and **Programming**.
 
 
 ---
