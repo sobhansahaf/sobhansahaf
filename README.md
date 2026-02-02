@@ -42,11 +42,49 @@ I am a **M.Sc. Control Engineer** from **Ferdowsi University of Mashhad**, with 
 
 ---
 
+# 💼 **Work Experience**
 
+## 🏭 **Quality Control (QC) Engineer & IT / Help Desk Specialist**
+
+**Toos Electric Wire & Cable Industries Co. | Mashhad, Iran**
+
+<p>
+  <img src="https://img.shields.io/badge/Quality%20Control-QC-2E7D32?logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/IT%20Support-Help%20Desk-1565C0?logo=windows&logoColor=white" />
+</p>
+
+**Key Responsibilities:**
+
+* Performed comprehensive **quality control testing** on various types of **electrical wires and cables** in accordance with **national and international standards**.
+* Conducted **electrical, thermal, dimensional, mechanical, fire resistance, and water penetration tests** using **laboratory testing equipment**.
+* Operated and worked with **industrial and laboratory measurement instruments** to validate product safety, performance, and compliance.
+* Supervised and maintained **hardware and software systems**, including troubleshooting and preventive maintenance.
+* Delivered efficient **Help Desk and end-user support**, resolving technical issues across the organization.
+* Automated reporting and operational workflows using **Microsoft Excel VBA**, improving efficiency and accuracy.
+
+**Technologies & Tools:**
+`Quality Control Standards` · `Laboratory Testing Equipment` · `Electrical & Mechanical Test Instruments` ·
+`Microsoft Office` · `Network Monitoring` · `IT Support` · `Hardware & Software Troubleshooting`
+
+---
+
+## 📘 **English Language Instructor**
+
+<p>
+  <img src="https://img.shields.io/badge/English%20Teaching-Instructor-4CAF50?logo=education&logoColor=white" />
+</p>
+
+* Taught **English language courses** in **private, semi-private, and group class formats**.
+* Designed lesson plans, assessments, and interactive activities to improve **speaking, listening, reading, and writing skills**.
+
+**Skills & Tools:**
+`Teaching Methodology` · `Lesson Planning` · `Communication Skills` · `Technical English`
+
+---
 
 # 🛠️ **Skills & Technologies**
 
-###🧑‍💻 Programming Languages
+### 🧑‍💻 Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
