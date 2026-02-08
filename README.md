@@ -173,7 +173,7 @@ I work across several engineering and development domains:
 # 📫 **Contact**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sobhan%20Sahaf-0A66C2?logo=linkedin\&logoColor=white)](www.linkedin.com/in/sobhan-sahaf-83b7453ab)
-[![Email](https://img.shields.io/badge/Email-sobhanshf78%40gmail.com-FF3131?logo=gmail\&logoColor=white)](mailto:sahaf.sobhan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sahaf.sobhan%40gmail.com-FF3131?logo=gmail\&logoColor=white)](mailto:sahaf.sobhan@gmail.com)
 
 ---
 
